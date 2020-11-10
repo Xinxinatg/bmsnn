@@ -34,9 +34,12 @@ The dataset can be downloaded from [ShanghaiTech](https://svip-lab.github.io/dat
 ![results](images/img3.png)
 
 ## Usage
+Run `Implementing bmsnn.ipynb`.
+
+or alternatively
 
 Run `generate_datasets.ipynb`.
-
+and
 Run `main.ipynb`.
 
 ## Results
