@@ -19,7 +19,7 @@ bayesian manner.
 
 ## Data:
 
-The dataset can be downloaded from [ShanghaiTech](https://svip-lab.github.io/datasets.html), [UCF-CC-50](https://www.crcv.ucf.edu/research/data-sets/ucf-cc-50/) and [UCF-QNRF](https://www.crcv.ucf.edu/research/data-sets/ucf-qnrf/).
+The dataset can be downloaded from [ShanghaiTech](https://svip-lab.github.io/datasets.html), [UCF-CC-50](https://www.crcv.ucf.edu/research/data-sets/ucf-cc-50/), [UCF-QNRF](https://www.crcv.ucf.edu/research/data-sets/ucf-qnrf/), and [VisDrone](https://drive.google.com/file/d/1FZ6hmOhwoXftKVgRWep_AxKcKS4v1WMQ/view?usp=sharing).
 
 ## Our Aggregation Module:
 
